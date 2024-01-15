@@ -1,0 +1,10 @@
+  --DATE: 2023-08-24
+Today I watched Stanford Engineer online courses. The remained problems are below:
+ - For DP method, why the optimal policy is mono, which means if one value is larger than the old one, the policy is overall a better policy, no exception? To solve this question, I need to program by hand to learn the details.(TASK 1)
+ - For Monte Carlo method, why the estimator is biased when it is not i.i.d, and why it is not i.i.d? Besides, why it is consistent? And what is the difference between first-visit method and every-visit method?
+  --EOD
+
+
+  --DATE: 2023-08-27
+Today I conclude everything about DP method as below:
+  - 
